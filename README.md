@@ -112,25 +112,6 @@
  
 <hr>
 
-  <div align="center">
-
-<table>
-  <tr>
-    <td align="left" style="background-color⚫; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
-      <strong style="color:white;">Graduation</strong><br><br>
-      <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-0d1117?style=flat-square&logoColor=white&color=blue"><br>
-      <img src="https://img.shields.io/badge/University-AKTU LUCKNOW-0d1117?style=flat-square&color=grey"><br>
-      <img src="https://img.shields.io/badge/Year-2021_–_2025-0d1117?style=flat-square&color=green">
-    </td>
-    <td width="50"></td>
-    <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
-      <strong style="color:white;">High School</strong><br><br>
-      <img src="https://img.shields.io/badge/HSC-Science_Stream-0d1117?style=flat-square&color=yellow"><br>
-      <img src="https://img.shields.io/badge/School-+2 HIGH SCHOOL BHABUA-0d1117?style=flat-square&color=orange"><br>
-      <img src="https://img.shields.io/badge/Year-2019_–_2021-0d1117?style=flat-square&color=green">
-    </td>
-  </tr>
-</table>
 
 </div>
 
