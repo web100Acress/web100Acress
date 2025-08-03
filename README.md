@@ -45,19 +45,19 @@
 <hr>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme/stargazers">
-  <img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/stars/web100Acress/awesome-github-profile-readme" alt="Stars Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme/network/members">
-  <img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/forks/web100Acress/awesome-github-profile-readme" alt="Forks Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme/pulls">
-  <img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/>
+  <img src="https://img.shields.io/github/issues-pr/web100Acress/awesome-github-profile-readme" alt="Pull Requests Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme/issues">
-  <img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/issues/web100Acress/awesome-github-profile-readme" alt="Issues Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme/graphs/contributors">
@@ -66,34 +66,34 @@
 
 <!-- New badges -->
 <a href="https://github.com/web100Acress/awesome-github-profile-readme/commits/main">
-  <img src="https://img.shields.io/github/last-commit/digiindia2025/awesome-github-profile-readme" alt="Last Commit Badge"/>
+  <img src="https://img.shields.io/github/last-commit/web100Acress/awesome-github-profile-readme" alt="Last Commit Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/repo-size/digiindia2025/awesome-github-profile-readme" alt="Repo Size Badge"/>
+  <img src="https://img.shields.io/github/repo-size/web100Acress/awesome-github-profile-readme" alt="Repo Size Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme/releases">
-  <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
+  <img src="https://img.shields.io/github/v/release/web100Acress/awesome-github-profile-readme" alt="Latest Release Badge"/>
 </a>
 <!-- 3 more new badges -->
 <a href="https://github.com/web100Acress/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/count/digiindia2025/awesome-github-profile-readme" alt="Languages Count Badge"/>
+  <img src="https://img.shields.io/github/languages/count/web100Acress/awesome-github-profile-readme" alt="Languages Count Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/top/digiindia2025/awesome-github-profile-readme" alt="Top Language Badge"/>
+  <img src="https://img.shields.io/github/languages/top/web100Acress/awesome-github-profile-readme" alt="Top Language Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
+  <img src="https://img.shields.io/github/watchers/web100Acress/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
 </a>
 <a href="https://github.com/web100Acress/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/commit-activity/m/digiindia2025/awesome-github-profile-readme" alt="Commit Activity Badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/web100Acress/awesome-github-profile-readme" alt="Commit Activity Badge"/>
 </a>
 
 <a href="https://github.com/web100Acress/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/issues-closed-raw/digiindia2025/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
+  <img src="https://img.shields.io/github/issues-closed-raw/web100Acress/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
 </a>
 <hr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=web100Acress&theme=radical" width="815" />
@@ -119,10 +119,10 @@
 
 ## 🌐 Online Presence
 
-- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)* 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
+- 🔗 [**Portfolio Website**](https://100acress.com) *(Showcase of my best work)* 
+- 💼 [**LinkedIn**](https://www.linkedin.com/company/100acress/posts/?feedView=all)  
 - 🐦 [**Twitter (X)**](https://x.com/web100Acress)  
-- 💻 [**GitHub**](https://github.com/digiindia2025)  
-- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
+- 💻 [**GitHub**](https://github.com/web100Acress)  
+- 📬 [**Email Me**](mailto:support@100acress.com)
 
 <hr>
