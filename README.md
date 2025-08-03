@@ -39,76 +39,76 @@
 
 ---
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari2357&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amantiwari2357&theme=radical" />
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=web100Acress&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=web100Acress&theme=radical" />
 ---
 
 <hr>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/stargazers">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme/stargazers">
   <img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/network/members">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme/network/members">
   <img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/pulls">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme/pulls">
   <img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/issues">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme/issues">
   <img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/graphs/contributors">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme/graphs/contributors">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348">
 </a>
 
 <!-- New badges -->
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/commits/main">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme/commits/main">
   <img src="https://img.shields.io/github/last-commit/digiindia2025/awesome-github-profile-readme" alt="Last Commit Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/repo-size/digiindia2025/awesome-github-profile-readme" alt="Repo Size Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/releases">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme/releases">
   <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
 </a>
 <!-- 3 more new badges -->
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/languages/count/digiindia2025/awesome-github-profile-readme" alt="Languages Count Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/languages/top/digiindia2025/awesome-github-profile-readme" alt="Top Language Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
 </a>
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/commit-activity/m/digiindia2025/awesome-github-profile-readme" alt="Commit Activity Badge"/>
 </a>
 
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
+<a href="https://github.com/web100Acress/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/issues-closed-raw/digiindia2025/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
 </a>
 <hr>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amantiwari2357&theme=radical" width="815" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=web100Acress&theme=radical" width="815" />
 
 <hr>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amantiwari2357&theme=radical)<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amantiwari2357&theme=radical&utcOffset=5" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=web100Acress&theme=radical)<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=web100Acress&theme=radical&utcOffset=5" />
 
 <hr>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amantiwari2357&theme=radical" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari2357&layout=compact&theme=radical&card_width=480)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=web100Acress&theme=radical" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web100Acress&layout=compact&theme=radical&card_width=480)
 
   <hr>
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=amantiwari2357&theme=radical&row=1&column=7)](https://github.com/amantiwari2357)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=web100Acress&theme=radical&row=1&column=7)](https://github.com/web100Acress)
  
 <hr>
 
@@ -140,7 +140,7 @@
 
 - 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)* 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
+- 🐦 [**Twitter (X)**](https://x.com/web100Acress)  
 - 💻 [**GitHub**](https://github.com/digiindia2025)  
 - 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
 
