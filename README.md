@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; text-align: center;">
 
-<img src="https://100acress-media-bucket.s3.ap-south-1.amazonaws.com/100acre/Github/Readme-Github.jpg" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
+<img src="https://d16gdc5rm7f21b.cloudfront.net/uploads/1760011742319-signature-global-banner.webp" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
 
 <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; background: rgba(0, 0, 0, 0.6); padding: 15px 30px; border-radius: 12px;">
 </h1>
